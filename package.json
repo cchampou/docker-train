@@ -1,0 +1,15 @@
+{
+  "name": "Train",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cchampou/docker-train",
+  "author": "cchampou <clement@champouillon.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
